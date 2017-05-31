@@ -1,3 +1,2 @@
-# hello-world
-testtesttest
-test versuch ich hab keine ahnung was ich hier machen soll
+# qml und allgemeines
+Hier sind mal alle qmls die ich auf dem Arbeitsrechner gefunden habe
