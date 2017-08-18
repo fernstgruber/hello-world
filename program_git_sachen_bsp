@@ -1,0 +1,15 @@
+
+
+git init
+
+git add '*'
+git config --global user.email 'fabianernstgruber@hotmail.com'
+git config --global user.name fernstgruber
+git commit -m 'My first "real" repo'
+git remote add origin https://github.com/fernstgruber/PROJECTP2.git
+
+
+
+git pull -u origin master
+git push -u origin master
+
